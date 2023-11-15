@@ -12,7 +12,7 @@ function page() {
           Arts. It was released in February 2019 for various platforms,
           including PC, PlayStation 4, and Xbox One. In the game, players are
           placed in teams of three, known as "squads," and compete against other
-          squads in a last-team-standing scenario on a map called King's Canyon.
+          squads in a last-team-standing scenario on a map called Kings Canyon.
           The game combines elements of team-based strategy, first-person
           shooting, and character abilities to create a unique gameplay
           experience. Apex Legends stands out from other battle royale games
