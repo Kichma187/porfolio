@@ -1,0 +1,173 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato";
+}
+
+nav {
+  background: radial-gradient(
+    circle,
+    rgba(2, 0, 36, 1) 0%,
+    rgba(9, 9, 121, 1) 35%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  color: white;
+  height: 60px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.mainSection {
+  height: 530px;
+  display: flex;
+  justify-content: space-around;
+  background-image: url(https://img.freepik.com/premium-photo/abstract-multi-color-spectrum-background-3d-render-bright-white-blue-neon-rays-colorful-glowing-lines-wallpaper_391867-33.jpg?w=1380);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.leftMainSection {
+  color: white;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  flex: 1;
+  text-align: center;
+  width: 300px;
+}
+
+img {
+  border-radius: 100px;
+}
+
+.textshort {
+  width: 370px;
+}
+.rightMainSection {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  flex: 1;
+}
+
+.secondMain {
+  display: flex;
+  height: 400px;
+  color: rgb(0, 0, 0);
+  background-color: aquamarine;
+}
+
+.leftSecondMain {
+  flex: 1;
+}
+.middleSecondMain {
+  flex: 1;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.rightSecondMain {
+  flex: 1;
+  text-align: right;
+}
+
+footer {
+  background-color: black;
+  color: greenyellow;
+  height: 110px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Contact {
+  justify-content: space-around;
+  flex: 1;
+}
+
+.AboutMe {
+  justify-content: space-around;
+  flex: 1;
+}
+
+.Copyright {
+  justify-content: space-around;
+  flex: 1;
+}
+.Redtext {
+  color: red;
+}
+.navRight {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+}
+.navLeft {
+  justify-content: center;
+}
+
+a {
+  color: white;
+}
+.test {
+  height: 700px;
+  background-image: url(https://i.pinimg.com/564x/52/d5/2c/52d52cc40324f7d5b986fc8293bb33e8.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: azure;
+  background-attachment: fixed;
+}
+
+.What {
+  height: 260px;
+  display: flex;
+  color: white;
+
+  padding-bottom: 120px;
+}
+.Why {
+  background-image: url(https://i.pinimg.com/564x/4e/34/17/4e34179e36ddc8f1c0378c26b35bb3f0.jpg);
+  display: flex;
+  height: 700px;
+  color: white;
+  background-attachment: fixed;
+}
+.firstsectiontennis {
+  background-image: url(https://www.bhf.org.uk/-/media/images/information-support/heart-matters/heart-matters/summer-2018/activity/tennis_racket_balls_ss_0618_noexp_620x400.jpg?rev=c18a71fbd05e4a91b4bbc40af01aafaa&hash=B6D9F53AC70899560495FC5D3205784D);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  color: green;
+}
+
+.how {
+  color: black;
+  background-color: rgba(5, 255, 93, 0.2);
+  padding: 40px;
+}
+.famousplayers {
+  background-image: url(https://www.dispatch.com/gcdn/authoring/2014/01/22/NCOD/ghows-OH-b169a960-8f77-4b98-888e-10d02645b141-51f9a61b.jpeg?width=660&height=448&fit=crop&format=pjpg&auto=webp);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+}
+.famous {
+  background: linear-gradient(
+    90deg,
+    rgba(9, 76, 121, 0) 0%,
+    rgba(130, 255, 245, 0.9567226548822654) 0%,
+    rgba(49, 120, 245, 1) 55%,
+    rgba(0, 77, 242, 1) 91%,
+    rgba(187, 244, 255, 1) 100%
+  );
+}
