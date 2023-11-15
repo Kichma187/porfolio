@@ -18,28 +18,28 @@ function page() {
           need a racquet, tennis balls, and a tennis court. The objective of
           tennis is to hit the ball over the net and into the opponents court,
           aiming to make it difficult for them to return the ball. The game can
-          be played between two individuals (singles) or two teams of two
-          players each (doubles). Players take turns serving and receiving the
-          ball, with the server initiating the point by hitting the ball into
-          the opponents service box. Tennis is played on various surfaces,
-          including grass, clay, and hard courts, each of which affects the
-          balls speed and bounce differently. The gameplay involves a
-          combination of forehand and backhand strokes, volleys, and serves.
-          Players use different grips on their racquets to generate power and
-          control over the ball. One of the key aspects of tennis is footwork.
-          Players must constantly move around the court to position themselves
-          and reach the ball efficiently. Agility, speed, and quick reaction
-          times are crucial in order to make effective shots and anticipate the
-          opponents moves. Strategy plays a significant role in tennis. Players
-          use a variety of tactics to outsmart their opponents, such as hitting
-          the ball deep to keep them on the defensive, utilizing drop shots to
-          catch them off guard, or directing shots towards their weaker side.
-          Mental focus and concentration are vital in tennis, as players need to
-          make split-second decisions and stay composed under pressure. It
-          requires adaptability and the ability to adjust ones tactics based on
-          the opponents playing style and weaknesses. Tennis matches are
-          typically played in sets, with each set consisting of games. The first
-          player or team to win a specified number of sets wins the match. Major
+          be played between two individuals singles or two teams of two players
+          each doubles. Players take turns serving and receiving the ball, with
+          the server initiating the point by hitting the ball into the opponents
+          service box. Tennis is played on various surfaces, including grass,
+          clay, and hard courts, each of which affects the balls speed and
+          bounce differently. The gameplay involves a combination of forehand
+          and backhand strokes, volleys, and serves. Players use different grips
+          on their racquets to generate power and control over the ball. One of
+          the key aspects of tennis is footwork. Players must constantly move
+          around the court to position themselves and reach the ball
+          efficiently. Agility, speed, and quick reaction times are crucial in
+          order to make effective shots and anticipate the opponents moves.
+          Strategy plays a significant role in tennis. Players use a variety of
+          tactics to outsmart their opponents, such as hitting the ball deep to
+          keep them on the defensive, utilizing drop shots to catch them off
+          guard, or directing shots towards their weaker side. Mental focus and
+          concentration are vital in tennis, as players need to make
+          split-second decisions and stay composed under pressure. It requires
+          adaptability and the ability to adjust ones tactics based on the
+          opponents playing style and weaknesses. Tennis matches are typically
+          played in sets, with each set consisting of games. The first player or
+          team to win a specified number of sets wins the match. Major
           tournaments, such as the Grand Slam events, feature best-of-five-set
           matches for men and best-of-three-set matches for women. Playing
           tennis provides numerous physical and mental benefits. It improves
